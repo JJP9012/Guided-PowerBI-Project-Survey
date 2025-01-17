@@ -1,6 +1,6 @@
 #  Guided PowerBI Project - Survey 
 
-Welcome to the **Guided PowerBI Project - Survey**! This project explores survey taker's job title, job happiness, job salary and more in a survey taken by Alex Freiburg, "Alex The Analyst" on Youtube. 📊
+Welcome to the **Guided PowerBI Project - Survey**! This project explores survey taker's job title, job happiness, job salary and more in a survey taken by Alex Freburg, "Alex The Analyst" on Youtube. 📊
 
 ![Survey Visual](https://github.com/user-attachments/assets/75a53ca8-d145-47f4-85c7-be137c3a268f)
 
